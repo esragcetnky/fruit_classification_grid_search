@@ -1,0 +1,8 @@
+*.yml
+.venv/ 
+venv/ 
+.vscode/
+environment
+chromadb_vectordb
+models/
+chroma_langchain_db
